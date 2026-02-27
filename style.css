@@ -1,0 +1,49 @@
+body {
+    background-color: darkslateblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 20px 100px;
+}
+
+h1 {
+    background-color: dimgray;
+    max-width: 240px;
+    text-align: center;
+    padding: 16px;
+    outline: 4px solid white;
+    margin-bottom: 24px;
+}
+
+.home ul {
+    background-color: dimgray;
+    padding: 16px;
+    text-align: center;
+    outline: 4px solid white;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.home li {
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+}
+
+a {
+    color: white;
+    display: block;
+    padding-top: 16px;
+}
+
+.home a {
+    padding-bottom: 16px;
+}
+
+img {
+    display: block;
+    margin: 40px auto;
+    outline: 4px double white;
+}
